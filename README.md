@@ -1,5 +1,5 @@
 # MNIST-Digit-Classifier
-This repository is used for documenting the implementation of a linear classifier for the MNIST handwritten digit dataset. 
+This repository is used for documenting the implementation of a neural network classifier for the MNIST handwritten digit dataset. 
 
 To do this, I downloaded the MNIST dataset from Kaggle here: https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 
