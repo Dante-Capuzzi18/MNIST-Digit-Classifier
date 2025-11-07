@@ -3,7 +3,7 @@ This repository is used for documenting the implementation of a linear classifie
 
 To do this, I downloaded the MNIST dataset from Kaggle here: https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 
-I then used a standard linear classifier structure across the 28x28 pixel image that MNIST datasets use and trained it on the dataset, leaving 10% out to be used as verification.
+I then used a standard feedforward network structure across the 28x28 pixel image that MNIST datasets use and trained it on the dataset, leaving 10% out to be used as verification.
 
 I then drew some digits in MS paint that are 28x28 pixels and placed them in the "my handdrawn digits" folder for the model to evaluate. 
 
