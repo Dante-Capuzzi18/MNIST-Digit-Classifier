@@ -12,7 +12,7 @@ As long as you have Python installed it should run fine from download, just run 
 
 If everything worked, you should see it training for 6 epochs and then testing on any imagees in "my handdrawn digits".
 
-To add your own digits for testing, you can use MS paint or any drawing application (such as GIMP or Photoshop), just make sure each image is 28x28 pixels. Then place your images in the "my handdrawn digits" folder and run main.py again. You should see your images being used after training.
+To add your own digits for testing, you can use MS paint or any drawing application (such as GIMP or Photoshop), just make sure each image is 28x28 pixels. Then place your images in the "my handdrawn digits" folder and run main.py again. You should see your images being used after training. To go to the next image, close the figure window showing the image.
 
 Example output: <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/94c24b7b-22df-479b-9e29-c591d88fa269" />
 
